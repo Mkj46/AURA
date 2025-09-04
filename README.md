@@ -35,4 +35,3 @@ AURA is a **smart traffic management system** that leverages **RFID technology**
 
 ---
 
-## 📂 Repository Structure
